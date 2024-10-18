@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&width=435&lines=Welcome+to+my+Github+profile!;Hi%2C+everyone!+I'm+Moch+Faris+Oldie.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=588CC1&width=435&lines=Welcome+to+my+Github+profile!;Hi%2C+everyone!+I'm+Moch+Faris+Oldie.)](https://git.io/typing-svg)
 
 <!-- <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200"> -->
 <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="Pixel Art" align="right" width="200">
