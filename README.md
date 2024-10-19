@@ -4,10 +4,11 @@
 
 ### Viewers
 
-<div style="display:flex;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oldie123&label=Profile%20views&color=0e75b6&style=flat" alt="farisoldie" /> </p>
+
+### Visitors
+
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=oldie123" alt="farisoldie" /> </p>
-</div>
 
 ### Technologies and tools:
 
@@ -27,8 +28,8 @@
 
 <div align="center">
   <a href="https://github.com/oldie123" style="display: flex; justify-content: center;">
-    <img height="210px" src="https://github-readme-stats.vercel.app/api?username=oldie123&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldie123&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <img height="220px" src="https://github-readme-stats.vercel.app/api?username=oldie123&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldie123&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
     
