@@ -10,6 +10,8 @@
 
 <!-- <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=oldie123" alt="farisoldie" /> </p> -->
 
+<br>
+
 ### Technologies and tools
 
 <div style="display: inline_block">
