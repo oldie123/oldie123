@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=oldie123" alt="farisoldie" /> </p>
 
-### Technologies and tools:
+### Technologies and tools
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
