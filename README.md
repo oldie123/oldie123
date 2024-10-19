@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=588CC1&width=435&lines=Welcome+to+my+Github+profile!;Hi%2C+everyone!+I'm+Moch+Faris+Oldie.)](https://git.io/typing-svg)
 
-<img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="Pixel Art" align="right" width="240">
+<img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="Pixel Art" align="right" width="280">
 
 ### Viewers
 
@@ -28,8 +28,8 @@
 
 <div align="center">
   <a href="https://github.com/oldie123" style="display: flex; justify-content: center;">
-    <img height="220px" src="https://github-readme-stats.vercel.app/api?username=oldie123&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldie123&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <img height="210px" src="https://github-readme-stats.vercel.app/api?username=oldie123&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldie123&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
     
