@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=588CC1&width=435&lines=Welcome+to+my+Github+profile!;Hi%2C+everyone!+I'm+Moch+Faris+Oldie.)](https://git.io/typing-svg)
 
-<img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="Pixel Art" align="right" width="310">
+<img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="Pixel Art" align="right" width="240">
 
 ### Viewers
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oldie123&label=Profile%20views&color=0e75b6&style=flat" alt="farisoldie" /> </p>
 
-### Visitors
+<!-- ### Visitors -->
 
-<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=oldie123" alt="farisoldie" /> </p>
+<!-- <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=oldie123" alt="farisoldie" /> </p> -->
 
 ### Technologies and tools
 
