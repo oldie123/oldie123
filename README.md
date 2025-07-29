@@ -48,7 +48,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oldie123&radius=16&theme=high-contrast&area=false&order=5&hide_border=true&hide_title=true" height="250" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oldie123&radius=16&theme=high-contrast&area=false&order=5&hide_border=true&hide_title=true" alt="Activity Graph" />
   <br><br>
   <img src="https://github-profile-trophy.vercel.app?username=oldie123&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="130" alt="Trophy Graph" />
 </div>
