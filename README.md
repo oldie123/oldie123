@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F9BE7&width=435&lines=Hi+there!+I'm+Moch+Faris+Oldie.;A+passionate+Full-Stack+Web+Developer.)](https://git.io/typing-svg)
 
 <!-- Right-side GIF -->
-<img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="1000" height="200"/>
+<!-- <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="1000" height="200"/> -->
 
 ## 👋 About Me
 
