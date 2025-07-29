@@ -28,7 +28,7 @@ I'm passionate about both frontend and backend technologies and love working on 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
 </div>
@@ -39,7 +39,7 @@ I'm passionate about both frontend and backend technologies and love working on 
 
 <div align="center">
   <img height="190px" src="https://github-readme-stats.vercel.app/api?username=oldie123&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldie123&layout=compact&langs_count=6&theme=one_dark_pro"/>
+  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldie123&layout=compact&langs_count=6&theme=one_dark_pro"/>
 </div>
 
 ---
