@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F9BE7&width=435&lines=Hi+there!+I'm+Moch+Faris+Oldie.;A+passionate+Full-Stack+Web+Developer.)](https://git.io/typing-svg)
 
 <!-- Right-side GIF -->
-<img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" align="right" width="220"/>
+<img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" align="right" width="1000"/>
 
 ## 👋 About Me
 
@@ -38,7 +38,7 @@ I'm passionate about both frontend and backend technologies and love working on 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=oldie123&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=oldie123&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
   <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldie123&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
 
