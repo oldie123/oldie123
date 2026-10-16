@@ -26,11 +26,15 @@
 
 ### 💼 Experience
 
+<div align="center">
+
 | Role                                                | Company                            | Period              |
 | --------------------------------------------------- | ---------------------------------- | ------------------- |
 | Data Analyst & Infrastructure Monitoring Specialist | PT Jalin Pembayaran Nusantara      | Dec 2024 – Present  |
 | Web Developer & Database Support                    | PT Rapier Technology International | Jan 2024 – Nov 2024 |
 | Web Developer Intern                                | PT Rapier Technology International | Aug 2023 – Dec 2023 |
+
+</div>
 
 ---
 
@@ -74,16 +78,6 @@
   <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" height="28" />
 </p>
-
----
-
-### 📂 Selected Projects
-
-- **Corporate IT Services Dashboard**: full stack enterprise IT dashboard (React, Tailwind CSS, Shadcn, Laravel, PostgreSQL)
-- **Settlement & Incident Reporting**: peak settlement and incident analytics dashboards used by operations teams (Grafana, PostgreSQL, SQL)
-- **Zabbix & Grafana Infrastructure Monitoring**: host items, triggers, and dashboards for payment infrastructure health (Zabbix, Grafana, Linux)
-- **WhatsApp Bot Automation**: automated WhatsApp bot orchestrated with n8n and Supabase (Node.js, WWeb.js, Puppeteer)
-- **Eazy Task (Freelance)**: task management UI for a freelance client (Laravel, Vue)
 
 ---
 
