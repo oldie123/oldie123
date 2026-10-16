@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Faris 👋</h1>
-<h3 align="center">Full Stack Web Developer & Data Analyst</h3>
+<h3 align="center">Data Analyst / Data Engineer | Full Stack Software Developer</h3>
+
+<p align="center">📍 Bekasi Barat, Indonesia</p>
 
 ---
 
@@ -13,14 +15,28 @@
 
 ### 🧠 About Me
 
-- 💻 2+ years of experience in web development (frontend & backend)
-- 📊 Junior data analyst with hands-on experience in data visualization & SQL
-- 🛠️ Passionate about building scalable and responsive web applications
+- 📊 3+ years of experience in data pipelines, SQL analytics, Grafana dashboards, and full stack web development
+- 🏦 Currently a **Data Analyst & Infrastructure Monitoring Specialist** at **PT Jalin Pembayaran Nusantara**, turning transaction and incident data from payment infrastructure into reports and automated alerts
+- 🛠️ Building REST APIs and user interfaces with Laravel, Node.js, React, and Vue
+- ⚙️ Strong in PostgreSQL, MySQL, n8n automation, Zabbix monitoring, and Linux server administration (Ubuntu, RHEL 9)
+- 🎓 Bachelor of Informatics Engineering at Universitas Siber Asia (in progress, expected 2027)
 - 🌱 Currently exploring advanced backend systems and DevOps tools
 
 ---
 
+### 💼 Experience
+
+| Role                                                | Company                            | Period              |
+| --------------------------------------------------- | ---------------------------------- | ------------------- |
+| Data Analyst & Infrastructure Monitoring Specialist | PT Jalin Pembayaran Nusantara      | Dec 2024 – Present  |
+| Web Developer & Database Support                    | PT Rapier Technology International | Jan 2024 – Nov 2024 |
+| Web Developer Intern                                | PT Rapier Technology International | Aug 2023 – Dec 2023 |
+
+---
+
 ### 🚀 Tech Stack
+
+**Frontend & Backend**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
@@ -29,19 +45,45 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" />
   <img src="https://skillicons.dev/icons?i=py" height="50" />
-  <img src="https://skillicons.dev/icons?i=go" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" />
+</p>
+
+**Data, Automation & Infrastructure**
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" height="28" />
+</p>
+
+---
+
+### 📂 Selected Projects
+
+- **Corporate IT Services Dashboard**: full stack enterprise IT dashboard (React, Tailwind CSS, Shadcn, Laravel, PostgreSQL)
+- **Settlement & Incident Reporting**: peak settlement and incident analytics dashboards used by operations teams (Grafana, PostgreSQL, SQL)
+- **Zabbix & Grafana Infrastructure Monitoring**: host items, triggers, and dashboards for payment infrastructure health (Zabbix, Grafana, Linux)
+- **WhatsApp Bot Automation**: automated WhatsApp bot orchestrated with n8n and Supabase (Node.js, WWeb.js, Puppeteer)
+- **Eazy Task (Freelance)**: task management UI for a freelance client (Laravel, Vue)
 
 ---
 
@@ -63,6 +105,9 @@
   </a>
   <a href="mailto:farisoldie@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://oldie-portofolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </div>
 
