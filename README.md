@@ -27,6 +27,8 @@ The JMS to JIVA migration was mine too. Laravel service with queue handling and 
   <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,flask,react,vue,ts,tailwind&theme=dark" height="42" alt="Laravel, PHP, Node, Python, Flask, React, Vue, TypeScript, Tailwind">
 </p>
 
+One small public project so far: [pg-alert-pipeline](https://github.com/oldie123/pg-alert-pipeline), alert thresholds kept in Postgres instead of config files, with a replay mode for testing rules against past incidents.
+
 Zabbix and n8n aren't in that icon set either. Neither is SQL, since it's a language rather than a logo. Supabase sits behind the WhatsApp bot.
 
 ## Background
