@@ -16,7 +16,7 @@ Settlement numbers sit in a few tables across two databases. I write the queries
 
 The alerting panel above is the part I'm happiest with. Thresholds used to live in the code, so every small spike woke someone up. We moved them into Postgres, and the noisy week on the left became the quiet one on the right.
 
-The JMS to JIVA migration was mine too. Laravel service, queue handling, secure API calls. It deleted a copy-paste step from someone's shift, which is the part I actually care about.
+The JMS to JIVA migration was mine too. Laravel service with queue handling and signed API calls. It deleted a copy-paste step from someone's shift, which is the part I actually care about.
 
 ## Tools
 
@@ -27,7 +27,7 @@ The JMS to JIVA migration was mine too. Laravel service, queue handling, secure 
   <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,flask,react,vue,ts,tailwind&theme=dark" height="42" alt="Laravel, PHP, Node, Python, Flask, React, Vue, TypeScript, Tailwind">
 </p>
 
-Zabbix, n8n and Supabase aren't in that icon set, and neither is SQL as a language. Those live here instead: Zabbix for server monitoring, n8n for the reporting pipelines that used to be manual, Supabase behind the WhatsApp bot.
+Zabbix and n8n aren't in that icon set either. Neither is SQL, since it's a language rather than a logo. Supabase sits behind the WhatsApp bot.
 
 ## Background
 
