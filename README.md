@@ -34,3 +34,11 @@ Zabbix and n8n aren't in that icon set either. Neither is SQL, since it's a lang
 Bekasi, Indonesia. Diploma from Politeknik Negeri Semarang in 2024, now finishing a bachelor at Universitas Siber Asia, expected 2027.
 
 [LinkedIn](https://www.linkedin.com/in/faris-oldie) · [Email](mailto:farisoldie@gmail.com) · [Portfolio](https://oldie-portofolio.vercel.app)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oldie123/oldie123/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oldie123/oldie123/output/pacman-contribution-graph.svg">
+    <img alt="Pacman eating my contribution graph" src="https://raw.githubusercontent.com/oldie123/oldie123/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
