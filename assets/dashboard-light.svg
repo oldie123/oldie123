@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="330" viewBox="0 0 1180 330" role="img" aria-label="Dashboard panel: Moch Faris Oldie (light)">
+  <style>
+    .panel { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1; }
+    .ptitle { fill: #57606a; font: 500 12px ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .big { fill: #1f2328; font: 600 26px ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .stat { fill: #1f2328; font: 600 40px ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .val { fill: #1f2328; font: 500 15px ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .dim { fill: #6e7781; font: 400 12px ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .mono { fill: #0550ae; font: 400 12px ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .axis { fill: #8c959f; font: 400 10px ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .note { fill: #1a7f37; font: 400 11px ui-monospace, SFMono-Regular, Menlo, monospace; }
+  </style>
+
+  <rect width="1180" height="330" rx="6" fill="#ffffff"/>
+
+  <text x="28" y="38" class="big">Moch Faris Oldie</text>
+  <text x="28" y="60" class="dim">payment infrastructure · observability · full stack</text>
+  <g transform="translate(884 24)">
+    <circle cx="5" cy="9" r="4" fill="#1a7f37"/>
+    <text x="17" y="13" class="dim">last refresh 2m ago</text>
+  </g>
+
+  <rect x="24" y="80" width="356" height="100" rx="3" class="panel"/>
+  <text x="40" y="102" class="ptitle">current role</text>
+  <text x="40" y="130" class="val">Data Analyst &amp; Infrastructure</text>
+  <text x="40" y="150" class="val">Monitoring Specialist</text>
+  <text x="40" y="170" class="dim">PT Jalin Pembayaran Nusantara · since Dec 2024</text>
+
+  <rect x="396" y="80" width="356" height="100" rx="3" class="panel"/>
+  <text x="412" y="102" class="ptitle">stack in daily use</text>
+  <g class="mono">
+    <text x="412" y="128">postgres  mysql  mongodb</text>
+    <text x="412" y="148">grafana  zabbix  n8n</text>
+    <text x="412" y="168">laravel  react  vue  linux</text>
+  </g>
+
+  <rect x="768" y="80" width="170" height="100" rx="3" class="panel"/>
+  <text x="784" y="102" class="ptitle">experience</text>
+  <text x="784" y="150" class="stat">3+</text>
+  <text x="784" y="172" class="dim">years</text>
+
+  <rect x="954" y="80" width="202" height="100" rx="3" class="panel"/>
+  <text x="970" y="102" class="ptitle">studying</text>
+  <text x="970" y="128" class="val">Informatics Eng.</text>
+  <text x="970" y="148" class="dim">Univ. Siber Asia · 2027</text>
+  <text x="970" y="168" class="dim">Polines · 2024</text>
+
+  <!-- panel: cerita alert -->
+  <rect x="24" y="196" width="1132" height="110" rx="3" class="panel"/>
+  <text x="40" y="218" class="ptitle">alert volume, one week</text>
+  <text x="40" y="234" class="axis">before and after moving thresholds out of the code</text>
+
+  <g stroke="#d0d7de" stroke-width="1" stroke-dasharray="2 4">
+    <path d="M300 246H1140M300 276H1140"/>
+  </g>
+
+  <!-- sebelum: ramai -->
+  <polyline points="300,262 330,254 356,268 382,250 408,266 434,252 460,270 486,256 512,264 538,248 564,268 590,254 616,266 642,252"
+            fill="none" stroke="#8c959f" stroke-width="1.5" stroke-linejoin="round" opacity="0.8"/>
+  <text x="300" y="292" class="axis">before</text>
+
+  <!-- sesudah: tenang -->
+  <polyline points="676,272 706,271 732,273 758,270 784,273 810,271 836,272 862,270 888,273 914,271 940,272 966,271 992,272 1018,270 1044,272 1070,271 1096,272 1122,271"
+            fill="none" stroke="#1a7f37" stroke-width="2" stroke-linejoin="round"/>
+  <text x="676" y="292" class="axis">after</text>
+
+  <!-- penanda perubahan -->
+  <line x1="656" y1="240" x2="656" y2="282" stroke="#9a6700" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="666" y="236" class="note">thresholds moved to postgres</text>
+  <g class="axis">
+    <text x="300" y="300">mon</text>
+    <text x="520" y="300">tue</text>
+    <text x="760" y="300">wed</text>
+    <text x="1000" y="300">thu</text>
+    <text x="1096" y="300">fri</text>
+  </g>
+</svg>
